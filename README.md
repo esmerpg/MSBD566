@@ -11,3 +11,7 @@ Run cells top to bottom.
 
 ---
 Last edited: 10/15/2025 by Esmeralda Garcia
+
+Dataset used for Midterm and Final is the same. File was too large to upload.
+
+Last edited: 12/11/2025 by Esmeralda Garcia
